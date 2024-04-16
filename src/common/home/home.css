@@ -11,8 +11,8 @@
   background: linear-gradient(180deg, rgba(1, 4, 38, 1) 0%, rgba(76, 91, 94, 1) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#010426", endColorstr="#4c5b5e", GradientType=1);
   width: 100%;
-  overflow-x: hidden;
-  min-height: 100vh;
+  /* overflow-x: hidden; */
+  /* min-height: 100vh; */
 }
 
 .app-home-body .app-home-body-content {

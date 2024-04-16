@@ -12,7 +12,7 @@ import './home.css';
 
 const Home = () => {
   return (
-    <main>
+    <main className="app-body">
       <section className="app-home-body">
         <HomeBanner />
         <HomeContent />
